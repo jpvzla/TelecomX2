@@ -1,8 +1,8 @@
 # TelecomX: Tercer challenge del curso Data Science con Python del programa Alura Latam y Oracle Next Education.  
 
 ## Objetivos:
-* Tu nueva misión es desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
-* La empresa quiere anticiparse al problema de la cancelación, y te corresponde a ti construir un pipeline robusto para esta etapa inicial de modelado.
+* Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor probabilidad de cancelar sus servicios.
+* La empresa quiere anticiparse al problema de la cancelación, y necesita un pipeline robusto para esta etapa inicial de modelado.
 ### Objetivos del Desafío
   * Preparar los datos para el modelado (tratamiento, codificación, normalización).
   * Realizar análisis de correlación y selección de variables.
