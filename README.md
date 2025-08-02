@@ -18,7 +18,12 @@
   * Comunicación técnica con enfoque estratégico
 
 ## Catracterísticas:
-* Descripción de las etapas y características de los modelos, normalización transformaciones y uso de los estimadores
+* Descripción de las etapas y características de los modelos.
+* Balanceo de clases, estándarización, segmentación y transformaciones de datos.
+* Ajustes de umbral, detección de sobreajuste.
+* Análisis de resultados y métricas.
+* Comparación de los mejores cuatro modelos.
+* Conslusiones y recomendaciones
 
 ## Tecnologías utilizadas (Por actualizar)
   * Google Colaboratory
@@ -27,8 +32,9 @@
   * Librerías
     * Pandas: Procesamiento y análisis de datos.
     * Numpy: Cálculo científico.
-    * Matplotlib, Seaborn: Visualización de resultados
-    
+    * Matplotlib, Seaborn: Visualización de resultados.
+    * Scikitlearn: Clasificación, regresión, clustering y reducción de dimensionalidad, exploración de datos y la creación de modelos para la toma de decisiones.
+    * Yellowbrick: Visualización y entendimiento de modelos y datos.
 ## Instalación y uso
    * Descarga el archivo .ipynb de este repositorio:
    * Abre en un nuevo Notebook en google Colaboratory y selecciona el archivo .ipynb descargado.
